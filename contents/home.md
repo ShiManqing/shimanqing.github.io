@@ -6,8 +6,6 @@ She is currently studying at the **Institute of Computing Technology (ICT)**, **
 
 Email: zhangshiman25@mails.ucas.ac.cn
 
-Phone: 18568057689
-
 QQ: 3432128940
 
 #### Education
