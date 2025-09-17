@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently studying at the **Institute of Computing Technology (ICT)**, **University of Chinese Academy of Sciences (UCAS)**, and is a **2025-entry direct PhD student** in the **Computational Proteomics** track under the **Forward-Looking Research Center**.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zhangshiman25@mails.ucas.ac.cn
+
+Phone: 18568057689
+
+QQ: 3432128940
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Computer Science and Technology, Central South University, 2021—2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning,Computational Proteomics, Artificial Intelligence for Science.
 
