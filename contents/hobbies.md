@@ -1,0 +1,4 @@
+- Exercising, such as running, swimming, and aerobics
+- Learning English
+- Playing the piano
+- Practicing calligraphy
