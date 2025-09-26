@@ -12,5 +12,5 @@ QQ: 3432128940
 B.E., Computer Science and Technology, Central South University, 2021—2025.
 
 #### Research Interests
-Deep Learning,Computational Proteomics, Artificial Intelligence for Science.
+Deep Learning, Computational Proteomics, Artificial Intelligence for Science.
 
