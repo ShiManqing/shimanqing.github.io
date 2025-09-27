@@ -1,1 +1,1 @@
-**Dr. Hao Chi: **Assioate Professor, Institute of Computing Technology, Chinese Academy of Sciences
+**Dr. Hao Chi** : Assioate Professor, Institute of Computing Technology, Chinese Academy of Sciences.
